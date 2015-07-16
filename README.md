@@ -1,4 +1,4 @@
-# zend-bare-minimum
+# mage-bare
 A Magento bare minimum environment provided by a vagrant-vbox-puppet configuration with landrush and librarian puppet.
 <br>
 With this simple configuration you'll be able to run a new Magento project inside a wirtual machine environment without the hassle of configuring it.
@@ -7,7 +7,7 @@ With this simple configuration you'll be able to run a new Magento project insid
 More or less these:
 - Ubuntu 14.04 64 bit OS
 - PHP 5.5.9
-- MySQL 5.5.41 with a database named zend (username zend_user, password zendo4o4)
+- MySQL 5.5.41 with a database named mage (username mage_user, password mageo4o4)
 - Apache prefork 2.4.7 with mod_rewrite
 - Magento
 - Xdebug working(hopefully) on port 9000
